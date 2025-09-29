@@ -1,4 +1,4 @@
-# 📘 Day 6 – Agile & CI/CD Practice
+# 📘 Day 7 – Agile & CI/CD Practice
 
 ## 🚀 Topics Covered
 1. Agile Methodology Fundamentals  
